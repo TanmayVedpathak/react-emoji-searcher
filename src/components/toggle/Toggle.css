@@ -1,0 +1,18 @@
+.themeBtn {
+  width: 45px;
+  height: 45px;
+  font-size: 18px;
+  padding: 10px;
+  border: 1px solid transparent;
+  border-radius: 40px;
+  background-color: var(--text-color-first);
+}
+
+.toggleInfo {
+  font-size: 12px;
+}
+
+.fontColor {
+  color: var(--background-color);
+
+}
