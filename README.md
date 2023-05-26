@@ -5,12 +5,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Usage
 
-To use this tool in your own projects, start by cloning this repository.
-
-```sh
-https://github.com/Kumarsidd/Emoji-Search.git
-```
-
 Then once the folder is inside your code editor, install all the necessary packages.
 
 ```sh
